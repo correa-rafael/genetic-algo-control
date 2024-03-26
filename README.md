@@ -8,4 +8,4 @@ This repository contains implementations of different control techniques to regu
 
 - **H-Infinity Controller:** For H-Infinity controller synthesis, utilize the MATLAB script `hinf_design.m` located in Others directory. This script is designed to handle H-Infinity control design.
 
-- **Genetic Algorithm Controller:** To synthesize a controller using the Genetic Algorithm, please refer to the README.md file inside the GA directory. It contains detailed instructions on how to run the genetic algorithm for controller design.
+- **Genetic Algorithm Controller:** To synthesize a controller using the Genetic Algorithm, please refer to the `README.md` file inside the GA directory. It contains detailed instructions on how to run the genetic algorithm for controller design.
