@@ -2,7 +2,7 @@
 
 This repository contains implementations of different control techniques to regulate tunneling current in scanning tunneling microscopy (STM), based on the report **"Performance Comparison of Genetic Algorithm Against Established Control Techniques for Tunneling Current Regulation"**.
 
-## Directories
+## Controllers
 
 - **Pole Placement Controller:** To synthesize a pole placement controller, use the MATLAB script `pole_placement.m` located in the Others directory. This script calls the auxiliary function `bezoutd_AB.m` to perform the pole placement control design.
 
