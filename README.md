@@ -1,6 +1,6 @@
 # Genetic Algorithm Control
 
-This repository contains implementations of different control techniques to regulate tunneling current in scanning tunneling microscopy (STM), based on the article **"Comparison Between Several Control Techniques for Tunneling Current Control"** (`ECC24_0527_FI.pdf`), presented at European Control Conference 2024.
+This repository contains implementations of different control techniques to regulate tunneling current in scanning tunneling microscopy (STM), based on the article **"Comparison Between Several Control Techniques for Tunneling Current Regulation"** (`ECC24_0527_FI.pdf`), presented at European Control Conference 2024.
 
 ## Controllers
 
